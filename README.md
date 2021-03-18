@@ -1,12 +1,12 @@
 # Project 2 - Go Chase It!
 
-This repo contains the third project of the Robotics Software Engineer Nanodegree Program from Udacity. The program shows a robot which can perform Adaptive Monte Carlo Localization (AMCL). Alsa, the robot can navigate to a goal in the map.
+This repo contains the third project of the Robotics Software Engineer Nanodegree Program from Udacity. The program shows a robot which can perform Adaptive Monte Carlo Localization (AMCL). Also, the robot can navigate to a goal in the map.
 
 ![gazebo_example](images/img_amcl.png)
 
 The image below shows the complete environment in rviz.
 
-![rviz_example](images/image_rviz.png)
+![rviz_example](images/img_rviz.png)
 
 ## Dependencies for Running
 * cmake >= 3.5.1
@@ -28,4 +28,4 @@ The image below shows the complete environment in rviz.
 4. Execute in terminal: `source devel/setup.bash`
 5. In terminal, launch the simulation environment (Gazebo and Rviz): `roslaunch my_robot world.launch`
 6. In a new terminal, launch Monte Carlo Localization: `roslaunch my_robot amcl.launch`
-7. In Rviz, with 2D Nav Goal, select a point to navigate.
+7. In Rviz, with 2D Nav Goal select a point to navigate.
