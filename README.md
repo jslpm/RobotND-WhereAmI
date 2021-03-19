@@ -4,7 +4,7 @@ This repo contains the third project of the Robotics Software Engineer Nanodegre
 
 ![gazebo_example](images/img_amcl.png)
 
-The image below shows the complete environment in rviz.
+The image below shows the environment in rviz.
 
 ![rviz_example](images/img_rviz.png)
 
@@ -29,3 +29,6 @@ The image below shows the complete environment in rviz.
 5. In terminal, launch the simulation environment (Gazebo and Rviz): `roslaunch my_robot world.launch`
 6. In a new terminal, launch Monte Carlo Localization: `roslaunch my_robot amcl.launch`
 7. In Rviz, with 2D Nav Goal select a point to navigate.
+
+https://user-images.githubusercontent.com/57360910/111732350-00fad100-8854-11eb-8b49-e7e6ca55a213.mp4
+
