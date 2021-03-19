@@ -6,7 +6,7 @@ This repo contains the third project of the Robotics Software Engineer Nanodegre
 
 The image below shows the environment in rviz.
 
-![rviz_example](images/img_rviz.png)
+![rviz_example](images/img_rviz.gif)
 
 ## Dependencies for Running
 * cmake >= 3.5.1
