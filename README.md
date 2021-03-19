@@ -23,7 +23,7 @@ The image below shows the environment in rviz.
 ## Basic Running Instructions
 
 1. Clone this repo.
-2. Open top level directory: `cd RobotND-WhereIAm/catkin_ws`
+2. Open top level directory: `cd RobotND-WhereAmI/catkin_ws`
 3. Build the files: `catkin_make`
 4. Execute in terminal: `source devel/setup.bash`
 5. In terminal, launch the simulation environment (Gazebo and Rviz): `roslaunch my_robot world.launch`
