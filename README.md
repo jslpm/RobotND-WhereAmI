@@ -1,4 +1,4 @@
-# Project 4 - Map My World
+# Project 3 - WhereAmI
 
 This repo contains the third project of the Robotics Software Engineer Nanodegree Program from Udacity. The program shows a robot which can perform Adaptive Monte Carlo Localization (AMCL). Also, the robot can navigate to a goal in the map.
 
